@@ -36,7 +36,7 @@ Wiki page: [M168](../../../../PAGES/M168.md)
 - **Words (OCR):** 87 in 75 lines: 22 · c5 · ED-7? · Cct · {ETe · Ca € 19 · Lio · E21J · Cce · z.3 · 26 2 4 · Bz}
 - **Title block:** (181, 12)–(407, 61) mm: FINISH · WARD · BECK SYSTEMS · DRN DR $ · clean · DATE 2.7. FEB.1970 · MATERIAL · M413 · CHKD · TALk · BACK AMPLIFIER · SCALE · LaYout · TOLS · FRACT * 1/64 DEC TO · PLACES GIVEN · ANGLES · 168 · 06 O
 
-Every curve, box, word and wire group: [1970 - 168-06-001 - M413 TALK BACK AMPLIFIER LAYOUT - DRN DPS - ISS 2 (traced).json](../SCHEMATICS/1970%20-%20168-06-001%20-%20M413%20TALK%20BACK%20AMPLIFIER%20LAYOUT%20-%20DRN%20DPS%20-%20ISS%202%20(traced).json) (the CAD file: `1970 - 168-06-001 - M413 TALK BACK AMPLIFIER LAYOUT - DRN DPS - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 168-06-001 - M413 TALK BACK AMPLIFIER LAYOUT - DRN DPS - ISS 2 (traced).json](../SCHEMATICS/1970%20-%20168-06-001%20-%20M413%20TALK%20BACK%20AMPLIFIER%20LAYOUT%20-%20DRN%20DPS%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1970 - 168-06-001 - M413 TALK BACK AMPLIFIER LAYOUT - DRN DPS - ISS 2 (traced).dxf`).
 
 ## Full text
 
