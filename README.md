@@ -1,6 +1,6 @@
 # M168 Talkback Amplifier Board · Communication
 
-Ward-Beck Systems M168, 1970|3. Wiki page: [M168 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M168.html)
+Ward-Beck Systems M168, 1970|3. Wiki page: [M168 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M168-Talkback-Amplifier-Board/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 1970 - 168-06-001 - M413 TALK BACK AMPLIFIER LAYOUT - DRN DPS - ISS 2.jpg
-Wiki page: [M168](../../../../PAGES/M168.md)
+Wiki page: [M168](../)
 
 
 - **Year:** 1970 (title block date)
